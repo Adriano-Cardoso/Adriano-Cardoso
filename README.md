@@ -1,6 +1,6 @@
 ### Oi, seja bem-vindo(a) eu sou o Adriano Cardoso 
 
-- 🔭 Hoje trabalho com back-end Java e Node
+- 🔭 Hoje trabalho com back-end Java e Spring
 - 🌱 Estudando MongoDB, Java, SOLID e Microsserviços 
 
 <div align="center" >
