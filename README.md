@@ -3,11 +3,6 @@
 - 🔭 Hoje trabalho com back-end Java e Spring
 - 🌱 Estudando MongoDB, Java, SOLID e Microsserviços 
 
-<div align="center" >
- <a href="https://github.com/Adriano-Cardoso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Cardoso&theme=dark&show_icons=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Cardoso&layout=compact&theme=dark"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
