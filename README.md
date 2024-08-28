@@ -1,7 +1,7 @@
 ### Oi, seja bem-vindo(a) eu sou o Adriano Cardoso 
 
 - 🔭 Hoje trabalho com back-end Java, Spring, Micronaut, aws(sqs, kms, dynamo)
-- 🌱 Estudando Microsserviços, Kafka, react js
+- 🌱 Estudando flutter, swift.
 
 <div align="center" >
  <a href="https://github.com/Adriano-Cardoso">
